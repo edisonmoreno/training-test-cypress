@@ -1,0 +1,7 @@
+ {
+    "baseUrl": "https://dog.ceo/api/",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporterConfig.json"
+    }
+ }
